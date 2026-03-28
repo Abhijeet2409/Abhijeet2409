@@ -47,10 +47,10 @@
 
 </p>
 
-<p>
+<!-- <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeet2409&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeet2409&show_icons=true&locale=en" />
-</p>
+</p> -->
